@@ -114,7 +114,7 @@ Auth: "No security Policy"
 }
 ```
 ![Alt text](./28.PNG "a title")
-![Alt text](./Screenshot_0.PNG "a title")
+![Alt text](./Screenshot_0.png "a title")
 ![Alt text](./30.PNG "a title")
 
 * Exclua um dos componentes de mapeamento para não ficar duplicado
@@ -124,9 +124,9 @@ Auth: "No security Policy"
 ![Alt text](./32.PNG "a title")
 
 * Aqui é onde vamos fazer o de/para das informacões recebidas da API do IBGE para resultado final da integracão (Arraste os campos da esquerda pra direita igual a imagem abaixo) e clique em "Validar" antes de fechar.
-![Alt text](./Screenshot_1.PNG "a title")
-![Alt text](./Screenshot_2.PNG "a title")
-![Alt text](./Screenshot_3.PNG "a title")
+![Alt text](./Screenshot_1.png "a title")
+![Alt text](./Screenshot_2.png "a title")
+![Alt text](./Screenshot_3.png "a title")
 
 * Agora selecione o menu sanduiche na direita da tela, e clique em "Rastreamento"
 ![Alt text](./35.PNG "a title")
@@ -149,7 +149,7 @@ Auth: "No security Policy"
 
 * Agora para fazer o teste final, clique novamente em "TESTE" e aguardamos para receber o retorno da API !
 ![Alt text](./42.PNG "a title")
-![Alt text](./Screenshot_4.PNG "a title")
+![Alt text](./Screenshot_4.png "a title")
 
 ## Autor
 
