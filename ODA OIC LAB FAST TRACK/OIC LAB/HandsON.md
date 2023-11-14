@@ -1,4 +1,4 @@
-# Lab 01 - Workshop OIC
+# Lab OIC - Workshop ODA, OIC, LLM
 
 Criando uma integracão simples utilizando adaptadores REST.
 
