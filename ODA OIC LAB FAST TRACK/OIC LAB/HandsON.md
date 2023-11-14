@@ -157,7 +157,10 @@ Auth: "No security Policy"
 ![Alt text](./38.PNG "a title")
 ![Alt text](./39.PNG "a title")
 
-* Passe o mouse em cima da sua integracão novamente e clique no botão de "Play", após isso selecione "Teste"
+* Passe o mouse em cima da sua integracão novamente e clique no botão de "Play"
+* Copie a Metada URL e salve para utilizar como endpoint no proximo LAB como mostra na imagem abaixo:
+![Alt text](./Screenshot_url.png "a title")
+*Clique em Teste como a imagem abaixo:
 ![Alt text](./40.PNG "a title")
 ![Alt text](./41.PNG "a title")
 
