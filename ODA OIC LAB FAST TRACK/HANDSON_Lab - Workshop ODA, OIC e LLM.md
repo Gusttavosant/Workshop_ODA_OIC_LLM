@@ -1,4 +1,4 @@
-# Lab 0X - Workshop ODA, OIC e LLM
+# Lab ODA - Workshop ODA, OIC e LLM
 
 Criando um Oracle Digital Assistant que consome dados de uma chamada REST no Oracle Integration Cloud e responde mensagens através da integração com o LLM Maritaca AI.
 
