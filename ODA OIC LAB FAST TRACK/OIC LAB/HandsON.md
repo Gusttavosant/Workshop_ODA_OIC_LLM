@@ -132,7 +132,13 @@ Auth: "No security Policy"
 ![Alt text](./32.PNG "a title")
 
 * Aqui é onde vamos fazer o de/para das informacões recebidas da API do IBGE para resultado final da integracão (Arraste os campos da esquerda pra direita igual a imagem abaixo) e clique em "Validar" antes de fechar.
+
 ![Alt text](./Screenshot_1.png "a title")
+* Apos arrastar o campo, clique no campo do lado direito, no icone de ferramenta e adicione:
+```
+  [1]
+```
+* Como mostra na imagem abaixo, repita o processo para "nome" e "id" e clique em validar!
 ![Alt text](./Screenshot_2.png "a title")
 ![Alt text](./Screenshot_3.png "a title")
 
