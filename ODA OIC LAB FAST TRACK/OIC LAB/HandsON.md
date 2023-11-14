@@ -165,10 +165,14 @@ Auth: "No security Policy"
 ![Alt text](./42.PNG "a title")
 ![Alt text](./Screenshot_4.png "a title")
 
+### Entre no LINK abaixo para seguir para a ultima etapa - Lab ODA
+### [LAB ODA - Workshop ODA, OIC, LLM] (https://github.com/Gusttavosant/Workshop_ODA_OIC_LLM/blob/main/ODA%20OIC%20LAB%20FAST%20TRACK/HANDSON_Lab%20-%20Workshop%20ODA,%20OIC%20e%20LLM.md)
+
+
 ## Autor
 
 Pedro Carrijo
-LinkedIn: [@pedrocarrijo](https://twitter.com/dompizzie)
+Gustavo Sant'ana
 
 ## Documentacões adicionais
 
