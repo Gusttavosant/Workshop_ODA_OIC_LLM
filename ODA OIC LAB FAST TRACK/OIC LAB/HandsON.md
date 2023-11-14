@@ -65,6 +65,14 @@ Auth: "No security Policy"
 ![Alt text](./17.PNG "a title")
 ![Alt text](./18.PNG "a title")
 ![Alt text](./19.PNG "a title")
+
+* Adicione o Json abaixo: 
+```
+{
+  "Nome" : "X"
+}
+```
+
 ![Alt text](./20.PNG "a title")
 ![Alt text](./21.PNG "a title")
 * Adicione o seguinte template JSON como Resposta:
